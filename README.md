@@ -1,6 +1,6 @@
 ## Olá!! 👋 Me chamo Pedro, estou me especializando em engenharia de software. 
 - 🔭 I’m currently excited to help others.
-- 🌱 I’m currently learning JavasScript to improve myself.
+- 🌱 I’m currently learning Java to improve myself.
 
 ### Github Stats:
 <div>
