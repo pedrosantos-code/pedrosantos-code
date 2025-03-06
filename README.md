@@ -4,8 +4,8 @@
 
 ### Github Stats:
 <div>
-  <img width="42%" height="160px" src="https://github-readme-stats.vercel.app/api?username=PedroSantos1426&show_icons=true&theme=tokyonight">
-  <img width="48%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSantos1426&layout=compact&theme=tokyonight">
+  <img width="42%" height="160px" src="https://github-readme-stats.vercel.app/api?username=pedrosantos-code&show_icons=true&theme=tokyonight">
+  <img width="48%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosantos-code&layout=compact&theme=tokyonight">
 </div>
 
 <div style="display: inline_block"><br>
