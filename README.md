@@ -1,4 +1,5 @@
-## Olá!! 👋 Me chamo Pedro, estou me especializando em engenharia de software. 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Pedro+Pereira+dos+Santos;I+am+18+Years+old;I+live+in+São+Paulo,+Brazil;Currently+studying+Software+Engineering+at+FIAP;+Welcome!)](https://git.io/typing-svg)
+
 - 🔭 I’m currently excited to help others.
 - 🌱 I’m currently learning Java to improve myself.
 
