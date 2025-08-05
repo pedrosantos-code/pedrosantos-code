@@ -33,7 +33,6 @@
 ## 🧠 Certificações
 
 - [✔️ Lógica de Programação - Alura](#)
-- [✔️ Fundamentos de Python - Cisco](#)
 
 ---
 
