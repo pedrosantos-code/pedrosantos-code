@@ -39,7 +39,7 @@
 ## 📫 Contato & Redes
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/pedro-dos-santos37/) 
-[![Email](https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=red)](mailto:ppedropds@gmail.com)
+[![Email](https://img.shields.io/badge/-Enviar%20Email%20via%20Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=red)](https://mail.google.com/mail/?view=cm&to=ppedropds@gmail.com)
 
 ---
 
