@@ -1,28 +1,70 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2596BE&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Pedro+Pereira+dos+Santos;I+am+20+Years+old;I+live+in+São+Paulo,+Brazil;Currently+studying+Software+Engineering+at+FIAP;+Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2596BE&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Pedro+Pereira+dos+Santos;Tenho+20+anos;+Sou+de+São+Paulo,+Brasil;Estudante+de+Engenharia+de+Software+na+FIAP;+Seja+bem-vindo!)](https://git.io/typing-svg)
 
-### Github Stats:
-
-<div align="center">  
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pedrosantos-code&show_icons=true&count_private=true&hide_border=true&title_color=2596BE&icon_color=808080&text_color=a0a0a0&bg_color=0d1117" alt="Pedro github stats" /> 
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosantos-code&layout=compact&hide_border=true&title_color=2596BE&text_color=a0a0a0&bg_color=0d1117" />
+<div align="center">
+  <img src="https://img.shields.io/badge/-Analista%20de%20Dados-2596BE?style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Apaixonado%20por%20Tecnologia-07e9a5?style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Sempre%20Aprendendo%20Algo%20Novo-ffc107?style=for-the-badge">
 </div>
 
+---
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedrosantos-code&bg_color=000000&color=2596BE&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 👨‍💻 Sobre mim
 
-### Principais conhecimentos:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=F09820&labelColor=0D1117)&nbsp;
- 
-### Ferramentas:
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
- 
-### Outros conhecimentos:
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+🎓 Estudante de Engenharia de Software na FIAP <br>
+🚀 Explorando o mundo da tecnologia com foco em análise de dados <br>
+🎮 Apaixonado por games, música e projetos criativos que juntam design + código <br>
+📈 Acredito em evolução constante: cada linha de código é um passo à frente! <br>
 
-### Estudando no momento:
-![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![Power BI](https://img.shields.io/badge/-Power%20BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)&nbsp;
+---
+
+## 🛠️ Habilidades & Tecnologias
+
+**Principais Linguagens**
+- JavaScript, Python, HTML, CSS
+
+**Ferramentas e Plataformas**
+- Git & GitHub, Figma, VS Code, Power BI, MySQL
+
+**Estudos em Andamento**
+- Estrutura de Dados, SQL, Data Analytics, Metodologias Ágeis
+
+---
+
+## 🧠 Certificações
+
+- [✔️ Lógica de Programação - Alura](#)
+- [✔️ Fundamentos de Python - Cisco](#)
+
+---
+
+## 📫 Contato & Redes
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/seulink) 
+[![Instagram](https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=pink)](https://www.instagram.com/seuperfil)
+[![Email](https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=red)](mailto:seuemail@gmail.com)
+
+---
+
+## 🌟 Curiosidades
+
+- 🪖 Já trabalhei no exército;
+- ✈️ Sonho em trabalhar com tech no exterior algum dia.
+
+---
+
+## 📈 Estatísticas GitHub
+
+<div align="center">  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pedrosantos-code&show_icons=true&count_private=true&hide_border=true&title_color=2596BE&icon_color=808080&text_color=a0a0a0&bg_color=0d1117" /> 
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosantos-code&layout=compact&hide_border=true&title_color=2596BE&text_color=a0a0a0&bg_color=0d1117" />
+</div>
+
+---
+
+## 🔥 Gráfico de Atividades
+
+<div align="center">
+  <a href="https://github.com/pedrosantos-code">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrosantos-code&bg_color=000000&color=2596BE&line=07e9a5&point=0a855c&area=true&hide_border=true" />
+  </a>
+</div>
