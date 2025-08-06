@@ -10,9 +10,9 @@
 
 ## 👨‍💻 Sobre mim
 
-🎓 Estudante de Engenharia de Software na FIAP <br>
-🚀 Explorando o mundo da tecnologia com foco em análise de dados <br>
-🎮 Apaixonado por games, música e projetos criativos que juntam design + código <br>
+🎓 Estudante de Engenharia de Software na FIAP; <br>
+🚀 Explorando o mundo da tecnologia com foco em análise de dados; <br>
+🎮 Apaixonado por games, música e projetos criativos que juntam design + código; <br>
 📈 Acredito em evolução constante: cada linha de código é um passo à frente! <br>
 
 ---
@@ -20,13 +20,13 @@
 ## 🛠️ Habilidades & Tecnologias
 
 **Principais Linguagens**
-- JavaScript, Python, HTML, CSS
+- JavaScript, Python, HTML, CSS.
 
 **Ferramentas e Plataformas**
-- Git & GitHub, Figma, VS Code, Power BI, MySQL
+- Git & GitHub, Figma, VS Code, Power BI, MySQL.
 
 **Estudos em Andamento**
-- Estrutura de Dados, SQL, Data Analytics, Metodologias Ágeis
+- Estrutura de Dados, SQL, Data Analytics, Metodologias Ágeis.
 
 ---
 
