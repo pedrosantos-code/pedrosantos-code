@@ -26,7 +26,7 @@
 - Git & GitHub, Figma, VS Code, Power BI, MySQL.
 
 **Estudos em Andamento**
-- Estrutura de Dados, SQL, Data Analytics, Metodologias Ágeis.
+- Estrutura de Dados, SQL, Metodologias Ágeis.
 
 ---
 
@@ -45,7 +45,7 @@
 
 ## 🌟 Curiosidades
 
-- 🪖 Já trabalhei no exército;
+- 🪖 Ex-soldado do exército;
 - ✈️ Sonho em trabalhar com tech no exterior algum dia.
 
 ---
