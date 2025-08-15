@@ -33,6 +33,9 @@
 ## 🧠 Certificações
 
 - [✔️ Lógica de Programação - Alura](#)
+- [✔️ Praticando SQL - Alura](#)
+- [✔️ Python para Ciências de Dados - Alura](#)
+- [✔️ Power BI - Alura](#)
 
 ---
 
