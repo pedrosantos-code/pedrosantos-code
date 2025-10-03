@@ -61,11 +61,3 @@
 </div>
 
 ---
-
-## 🔥 Gráfico de Atividades
-
-<div align="center">
-  <a href="https://github.com/pedrosantos-code">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrosantos-code&bg_color=000000&color=2596BE&line=07e9a5&point=0a855c&area=true&hide_border=true" />
-  </a>
-</div>
