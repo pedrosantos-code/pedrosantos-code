@@ -51,13 +51,4 @@
 - 🪖 Ex-soldado do exército;
 - ✈️ Sonho em trabalhar com tech no exterior algum dia.
 
----
 
-## 📈 Estatísticas GitHub
-
-<div align="center">  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pedrosantos-code&show_icons=true&count_private=true&hide_border=true&title_color=2596BE&icon_color=808080&text_color=a0a0a0&bg_color=0d1117" /> 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosantos-code&layout=compact&hide_border=true&title_color=2596BE&text_color=a0a0a0&bg_color=0d1117" />
-</div>
-
----
