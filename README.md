@@ -20,13 +20,13 @@
 ## 🛠️ Habilidades & Tecnologias
 
 **Principais Linguagens**
-- JavaScript, Python, HTML, CSS.
+- JavaScript, Python, HTML, CSS, SQL.
 
 **Ferramentas e Plataformas**
-- Git & GitHub, Figma, VS Code, Power BI, MySQL.
+- Git & GitHub, Figma, VS Code, Power BI, MySQL, Metodologias Ágeis.
 
 **Estudos em Andamento**
-- Estrutura de Dados, SQL, Metodologias Ágeis.
+- Estrutura de Dados, Angular, Typerscript.
 
 ---
 
