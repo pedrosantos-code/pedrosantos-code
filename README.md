@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2596BE&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Pedro+Pereira+dos+Santos;Tenho+20+anos;+Sou+de+São+Paulo,+Brasil;Estudante+de+Engenharia+de+Software+na+FIAP;+Seja+bem-vindo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2596BE&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Pedro+Pereira+dos+Santos;Tenho+21+anos;+Sou+de+São+Paulo,+Brasil;Estudante+de+Engenharia+de+Software+na+FIAP;+Seja+bem-vindo!)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Analista%20de%20Dados-2596BE?style=for-the-badge">
