@@ -19,14 +19,32 @@
 
 ## 🛠️ Habilidades & Tecnologias
 
-**Principais Linguagens**
-- JavaScript, Python, HTML, CSS, SQL.
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48" style="border-radius: 20%;" title="JavaScript" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" style="border-radius: 20%; background-color: white; padding: 4px;" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48" height="48" style="border-radius: 20%; background-color: white; padding: 4px;" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48" height="48" style="border-radius: 20%; background-color: white; padding: 4px;" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48" height="48" style="border-radius: 20%; background-color: white; padding: 4px;" title="MySQL / SQL" />
+</p>
 
-**Ferramentas e Plataformas**
-- Git & GitHub, Figma, VS Code, Power BI, MySQL, Metodologias Ágeis.
+<h3>Ferramentas e Plataformas</h3>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" height="48" style="border-radius: 20%; background-color: white; padding: 4px;" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="48" height="48" style="border-radius: 20%; background-color: white; padding: 4px;" title="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="48" height="48" style="border-radius: 20%; background-color: white; padding: 4px;" title="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48" height="48" style="border-radius: 20%; background-color: white; padding: 4px;" title="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg" width="48" height="48" style="border-radius: 20%; background-color: white; padding: 4px;" title="Power BI" />
+</p>
 
-**Estudos em Andamento**
-- Estrutura de Dados, Angular, Typerscript.
+<h3>Estudos em Andamento</h3>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="48" height="48" style="border-radius: 20%; background-color: white; padding: 4px;" title="Angular" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="48" height="48" style="border-radius: 20%;" title="TypeScript" />
+</p>
+
+<p><b>Conceitos & Práticas:</b> Metodologias Ágeis (Scrum/Kanban) e Estruturas de Dados & Algoritmos.</p>
 
 ---
 
@@ -39,8 +57,17 @@
 
 ## 📫 Contato & Redes
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-dos-santos37/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=ppedropds@gmail.com)
+<p align="left">
+  <!-- LinkedIn (Com fundo branco) -->
+  <a href="https://www.linkedin.com/in/SEU_PERFIL" target="_blank">
+    <img src="https://unpkg.com/simple-icons@v10/icons/linkedin.svg" width="48" height="48" style="border-radius: 20%; background-color: white; padding: 6px;" title="LinkedIn" />
+  </a>
+
+  <!-- E-mail (Com fundo branco) -->
+  <a href="mailto:seuemail@exemplo.com">
+    <img src="https://unpkg.com/simple-icons@v10/icons/gmail.svg" width="48" height="48" style="border-radius: 20%; background-color: white; padding: 6px;" title="E-mail" />
+  </a>
+</p>
 
 ---
 
