@@ -65,7 +65,7 @@
 
   <!-- E-mail (Com fundo branco) -->
   <a href="mailto:ppedropds@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=EA4335" height="48" title="E-mail" />
+  <img src="https://www.svgrepo.com/show/353812/google-gmail.svg" height="48" title="E-mail" />
   </a>
   </a>
 </p>
