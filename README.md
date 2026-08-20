@@ -64,7 +64,7 @@
   </a>
 
   <!-- E-mail (Com fundo branco) -->
-  <a href="mailto:seuemail@exemplo.com">
+  <a href="ppedropds@gmail.com">
     <img src="https://unpkg.com/simple-icons@v10/icons/gmail.svg" width="48" height="48" style="border-radius: 20%; background-color: white; padding: 6px;" title="E-mail" />
   </a>
 </p>
