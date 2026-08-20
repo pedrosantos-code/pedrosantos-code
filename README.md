@@ -60,7 +60,7 @@
 <p align="left">
   <!-- LinkedIn (Com fundo branco) -->
   <a href="https://www.linkedin.com/in/SEU_PERFIL" target="_blank">
-    <img src="https://unpkg.com/simple-icons@v10/icons/linkedin.svg" width="48" height="48" style="border-radius: 20%; background-color: white; padding: 6px;" title="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="48" height="48" style="border-radius: 20%; background-color: white; padding: 6px;" title="LinkedIn" />
   </a>
 
   <!-- E-mail (Com fundo branco) -->
