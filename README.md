@@ -59,7 +59,7 @@
 
 <p align="left">
   <!-- LinkedIn (Com fundo branco) -->
-  <a href="www.linkedin.com/in/pedro-dos-santos37" target="_blank">
+  <a href="https://www.linkedin.com/in/pedro-dos-santos37" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="48" height="48" style="border-radius: 20%; background-color: white; padding: 6px;" title="LinkedIn" />
   </a>
 
