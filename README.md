@@ -64,8 +64,9 @@
   </a>
 
   <!-- E-mail (Com fundo branco) -->
-  <a href="ppedropds@gmail.com">
-    <img src="https://unpkg.com/simple-icons@v10/icons/gmail.svg" width="48" height="48" style="border-radius: 20%; background-color: white; padding: 6px;" title="E-mail" />
+  <a href="mailto:ppedropds@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=EA4335" height="48" title="E-mail" />
+  </a>
   </a>
 </p>
 
