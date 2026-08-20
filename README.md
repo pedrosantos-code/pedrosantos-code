@@ -44,7 +44,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="48" height="48" style="border-radius: 20%;" title="TypeScript" />
 </p>
 
-<p><b>Conceitos & Práticas:</b> Metodologias Ágeis (Scrum/Kanban) e Estruturas de Dados & Algoritmos.</p>
+<p><b>Conceitos & Práticas:</b> Metodologias Ágeis (Scrum) e Estruturas de Dados & Algoritmos.</p>
 
 ---
 
