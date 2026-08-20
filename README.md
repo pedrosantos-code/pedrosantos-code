@@ -25,7 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" style="border-radius: 20%; background-color: white; padding: 4px;" title="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48" height="48" style="border-radius: 20%; background-color: white; padding: 4px;" title="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48" height="48" style="border-radius: 20%; background-color: white; padding: 4px;" title="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48" height="48" style="border-radius: 20%; background-color: white; padding: 4px;" title="MySQL / SQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="48" height="48" style="border-radius: 20%; background-color: white; padding: 4px;" title="MySQL / SQL" />
 </p>
 
 <h3>Ferramentas e Plataformas</h3>
