@@ -58,16 +58,10 @@
 ## 📫 Contato & Redes
 
 <p align="left">
-  <!-- LinkedIn (Com fundo branco) -->
-  <a href="https://www.linkedin.com/in/pedro-dos-santos37" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="48" height="48" style="border-radius: 20%; background-color: white; padding: 6px;" title="LinkedIn" />
-  </a>
-
-  <!-- E-mail (Com fundo branco) -->
-  <a href="mailto:ppedropds@gmail.com">
-  <img src="https://www.svgrepo.com/show/353812/google-gmail.svg" height="48" title="E-mail" />
-  </a>
-  </a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/pedro-dos-santos37" target="_blank" style="text-decoration: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="48" height="48" style="border-radius: 20%; background-color: white; padding: 6px; margin-right: 6px; vertical-align: middle;" title="LinkedIn" /></a><!--
+--><!-- E-mail -->
+  <a href="mailto:ppedropds@gmail.com" style="text-decoration: none;"><img src="https://www.svgrepo.com/show/353812/google-gmail.svg" height="48" style="vertical-align: middle;" title="E-mail" /></a>
 </p>
 
 ---
