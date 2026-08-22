@@ -34,7 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="48" height="48" style="border-radius: 20%; background-color: white; padding: 4px;" title="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="48" height="48" style="border-radius: 20%; background-color: white; padding: 4px;" title="Figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48" height="48" style="border-radius: 20%; background-color: white; padding: 4px;" title="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg" width="48" height="48" style="border-radius: 20%; background-color: white; padding: 4px;" title="Power BI" />
+  <img src="https://i.im.ge/QM4z7Jz/microsoft-power-bi-j2ar1geax9jerhy4ixyb9p.webp" width="48" height="48" style="border-radius: 20%; background-color: white; padding: 4px;" title="Power BI" />
 </p>
 
 <h3>Estudos em Andamento</h3>
