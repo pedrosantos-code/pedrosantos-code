@@ -11,7 +11,11 @@
 <img src="./assets/readme-top.svg" width="100%" alt="Sobre mim, habilidades, ferramentas e estudos" />
 
 
-<img src="./assets/card06-top.svg" alt="Contato e redes" align="bottom" /><br>
-<a href="https://www.linkedin.com/in/pedro-dos-santos37" target="_blank"><img src="./assets/icon-linkedin-boxed.svg" alt="LinkedIn" align="bottom" /></a><a href="mailto:ppedropds@gmail.com"><img src="./assets/icon-email-boxed.svg" alt="Email" align="bottom" /></a>
+<img src="./assets/card06-full.svg" alt="Contato e redes" usemap="#contato-map" />
+
+<map name="contato-map">
+  <area shape="rect" coords="30,70,72,112" href="https://www.linkedin.com/in/pedro-dos-santos37" target="_blank" alt="LinkedIn">
+  <area shape="rect" coords="86,70,128,112" href="mailto:ppedropds@gmail.com" alt="Email">
+</map>
 
 <img src="./assets/readme-bottom.svg" width="100%" alt="Curiosidades" />
