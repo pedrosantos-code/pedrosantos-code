@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="227" height="30" viewBox="0 0 227 30">
+<defs>
+<filter id="g2" x="-50%" y="-50%" width="200%" height="200%">
+<feGaussianBlur stdDeviation="2.4" result="b"/>
+<feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+</defs>
+<text font-family="DejaVu Sans Mono, Consolas, Courier New, monospace" font-weight="700" font-size="14" fill="#5be0ff" filter="url(#g2)" opacity="0.95"><tspan x="10.0" y="20.1">&lt;</tspan><tspan x="22.0" y="20.1"> </tspan><tspan x="32.5" y="20.1">T</tspan><tspan x="44.5" y="20.1">E</tspan><tspan x="56.5" y="20.1">N</tspan><tspan x="68.5" y="20.1">H</tspan><tspan x="80.5" y="20.1">O</tspan><tspan x="92.5" y="20.1"> </tspan><tspan x="103.0" y="20.1">2</tspan><tspan x="115.0" y="20.1">1</tspan><tspan x="127.0" y="20.1"> </tspan><tspan x="137.5" y="20.1">A</tspan><tspan x="149.5" y="20.1">N</tspan><tspan x="161.5" y="20.1">O</tspan><tspan x="173.5" y="20.1">S</tspan><tspan x="185.5" y="20.1"> </tspan><tspan x="196.0" y="20.1">/</tspan><tspan x="208.0" y="20.1">&gt;</tspan></text>
+</svg>
