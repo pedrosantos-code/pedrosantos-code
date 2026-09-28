@@ -1,1 +1,13 @@
-
+<svg xmlns="http://www.w3.org/2000/svg" width="226" height="46" viewBox="0 0 226 46">
+<defs>
+<filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+<feGaussianBlur stdDeviation="2.6" result="b"/>
+<feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+</defs>
+<rect x="0.5" y="0.5" width="225" height="45" rx="23" ry="23" fill="#0a0e1a" stroke="#ff9d9d" stroke-width="1.2"/>
+<rect x="0.5" y="0.5" width="225" height="45" rx="23" ry="23" fill="none" stroke="#ff9d9d" stroke-width="0.9" filter="url(#glow)" opacity="0.85"/>
+<rect x="8" y="8.0" width="30" height="30" rx="7" ry="7" fill="#1a0e0e" stroke="#ff9d9d" stroke-width="1.2" opacity="0.95"/>
+<path d="M14 19.0 L23.0 26.0 L32 19.0 M14 19.0 v14 h18 v-14 Z" fill="none" stroke="#ff9d9d" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="48" y="28.0" font-family="DejaVu Sans Mono, Consolas, Courier New, monospace" font-weight="700" font-size="14" fill="#ff9d9d">ppedropds@gmail.com</text>
+</svg>
