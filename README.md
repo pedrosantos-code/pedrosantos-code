@@ -10,6 +10,7 @@
 <br>
 <img src="./assets/readme-top.svg" width="100%" alt="Sobre mim, habilidades, ferramentas e estudos" />
 
+<img src="./assets/readme-bottom.svg" width="100%" alt="Curiosidades" />
 
 <img src="./assets/card06-full.svg" alt="Contato e redes" usemap="#contato-map" />
 
@@ -18,4 +19,4 @@
   <area shape="rect" coords="86,70,128,112" href="mailto:ppedropds@gmail.com" alt="Email">
 </map>
 
-<img src="./assets/readme-bottom.svg" width="100%" alt="Curiosidades" />
+
