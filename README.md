@@ -1,6 +1,6 @@
 <p align="right">
 <a href="https://www.linkedin.com/in/pedro-dos-santos37" target="_blank"><img src="./assets/icon-linkedin.svg" alt="LinkedIn" /></a>
-<a href="mailto:ppedropds@gmail.com"><img src="./assets/icon-email.svg" alt="Email" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ppedropds@gmail.com" target="_blank"><img src="./assets/icon-email.svg" alt="Email" /></a>
 </p>
 
 
