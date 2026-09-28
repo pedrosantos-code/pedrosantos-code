@@ -1,4 +1,7 @@
+<img src="./assets/eyebrow-contato.svg" width="820" alt="06 // Contato & Redes" />
 
+<a href="https://www.linkedin.com/in/pedro-dos-santos37" target="_blank"><img src="./assets/icon-linkedin.svg" alt="LinkedIn" /></a>
+<a href="mailto:ppedropds@gmail.com"><img src="./assets/icon-email.svg" alt="Email" /></a>
 
 
 <div align="center">
