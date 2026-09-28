@@ -13,6 +13,6 @@
 
 <img src="./assets/card06-full.svg" width="100%" alt="Contato e redes" />
 
-<a href="https://www.linkedin.com/in/pedro-dos-santos37" target="_blank"><img src="./assets/icon-linkedin.svg" alt="LinkedIn" /></a> <a href="mailto:ppedropds@gmail.com"><img src="./assets/icon-email.svg" alt="Email" /></a>
+`[in]` [pedro-dos-santos37](https://www.linkedin.com/in/pedro-dos-santos37) &nbsp;&nbsp;&nbsp; `[@]` [ppedropds@gmail.com](mailto:ppedropds@gmail.com)
 
 <img src="./assets/readme-bottom.svg" width="100%" alt="Curiosidades" />
