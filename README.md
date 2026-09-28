@@ -8,4 +8,10 @@
 </div>
 
 <br>
-<img src="./assets/readme-full-card.svg" alt="Sobre mim, habilidades, ferramentas, estudos, certificações, contato e curiosidades" width="100%" />
+<img src="./assets/readme-top.svg" width="100%" alt="Sobre mim, habilidades, ferramentas e estudos" />
+
+<img src="./assets/eyebrow-contato.svg" width="100%" alt="Contato e redes" />
+
+<a href="https://www.linkedin.com/in/pedro-dos-santos37" target="_blank"><img src="./assets/badge-linkedin.svg" alt="LinkedIn" /></a> <a href="mailto:ppedropds@gmail.com"><img src="./assets/badge-email.svg" alt="Email" /></a>
+
+<img src="./assets/readme-bottom.svg" width="100%" alt="Curiosidades" />
