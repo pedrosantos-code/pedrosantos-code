@@ -8,4 +8,4 @@
 </div>
 
 <br>
-
+<img src="./assets/readme-full-card.svg" alt="Sobre mim, habilidades, ferramentas, estudos, certificações, contato e curiosidades" width="100%" />
