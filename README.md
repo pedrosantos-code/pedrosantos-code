@@ -10,8 +10,8 @@
 <br>
 <img src="./assets/readme-top.svg" width="100%" alt="Sobre mim, habilidades, ferramentas e estudos" />
 
-<img src="./assets/card06-shell.svg" width="100%" alt="Contato e redes" />
+<img src="./assets/card06-full.svg" width="100%" alt="Contato e redes" />
 
-<a href="https://www.linkedin.com/in/pedro-dos-santos37" target="_blank"><img src="./assets/icon-linkedin.svg" alt="LinkedIn" /></a> <a href="mailto:ppedropds@gmail.com"><img src="./assets/icon-email.svg" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/pedro-dos-santos37" target="_blank"><img src="https://img.shields.io/badge/pedro--dos--santos37-0a0e1a?style=for-the-badge&logo=linkedin&logoColor=4fd7ff" alt="LinkedIn"/></a> <a href="mailto:ppedropds@gmail.com"><img src="https://img.shields.io/badge/ppedropds%40gmail.com-0a0e1a?style=for-the-badge&logo=gmail&logoColor=ff6e6e" alt="Email"/></a>
 
 <img src="./assets/readme-bottom.svg" width="100%" alt="Curiosidades" />
