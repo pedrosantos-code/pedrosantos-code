@@ -18,8 +18,6 @@
 </filter>
 </defs>
 
-<rect x="1" y="1" width="338" height="198" rx="14" ry="14" fill="#0e0a1c" stroke="#5b3f8f" stroke-width="1.2"/>
-
 <circle cx="170.0" cy="70.0" r="54.0" fill="url(#ringfill)" stroke="#7fcfff" stroke-width="1.6" opacity="0.55" filter="url(#circGlow)"/>
 <circle cx="170.0" cy="70.0" r="54.0" fill="url(#ringfill)" stroke="#9fdcff" stroke-width="1.6"/>
 
