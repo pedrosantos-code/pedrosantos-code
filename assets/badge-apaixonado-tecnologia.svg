@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="329" height="52" viewBox="0 0 329 52">
+<defs>
+<filter id="g" x="-50%" y="-50%" width="200%" height="200%">
+<feGaussianBlur stdDeviation="3.2" result="b"/>
+<feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+</defs>
+<rect x="1" y="1" width="327" height="50" rx="26.0" ry="26.0" fill="#070b16" stroke="#c199ff" stroke-width="1.4" opacity="0.98"/>
+<rect x="1" y="1" width="327" height="50" rx="26.0" ry="26.0" fill="none" stroke="#c199ff" stroke-width="1.1" filter="url(#g)" opacity="0.9"/>
+<text font-family="DejaVu Sans Mono, Consolas, Courier New, monospace" font-weight="700" font-size="15" fill="#c199ff"><tspan x="26.0" y="31.4">A</tspan><tspan x="37.2" y="31.4">P</tspan><tspan x="48.4" y="31.4">A</tspan><tspan x="59.6" y="31.4">I</tspan><tspan x="70.8" y="31.4">X</tspan><tspan x="82.0" y="31.4">O</tspan><tspan x="93.2" y="31.4">N</tspan><tspan x="104.4" y="31.4">A</tspan><tspan x="115.6" y="31.4">D</tspan><tspan x="126.8" y="31.4">O</tspan><tspan x="138.0" y="31.4"> </tspan><tspan x="148.5" y="31.4">P</tspan><tspan x="159.7" y="31.4">O</tspan><tspan x="170.8" y="31.4">R</tspan><tspan x="183.0" y="31.4"> </tspan><tspan x="193.5" y="31.4">T</tspan><tspan x="204.7" y="31.4">E</tspan><tspan x="215.9" y="31.4">C</tspan><tspan x="227.1" y="31.4">N</tspan><tspan x="238.3" y="31.4">O</tspan><tspan x="249.5" y="31.4">L</tspan><tspan x="260.7" y="31.4">O</tspan><tspan x="271.9" y="31.4">G</tspan><tspan x="283.1" y="31.4">I</tspan><tspan x="294.3" y="31.4">A</tspan></text>
+</svg>
