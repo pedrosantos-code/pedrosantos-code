@@ -1,8 +1,7 @@
 <div align="center">
+  <img src="./assets/badge-header.svg" alt="Pedro Santos" />
+</div>
 
-<img width="104" height="104" src="https://img.shields.io/badge/PS-0a0e1c?style=for-the-badge" alt="avatar" />
-
-# Pedro Santos
 <div align="center">
 
 <img src="./assets/badge-tenho21anos.svg" alt="tenho 21 anos" />
