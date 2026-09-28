@@ -1,74 +1,79 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Pedro+Pereira+dos+Santos;Tenho+21+anos;+Sou+de+São+Paulo,+Brasil;Estudante+de+Engenharia+de+Software+na+FIAP;+Seja+bem-vindo!)](https://git.io/typing-svg)
-
 <div align="center">
-  <img src="https://img.shields.io/badge/-Analista%20de%20Dados-2596BE?style=for-the-badge">
-  <img src="https://img.shields.io/badge/-Apaixonado%20por%20Tecnologia-07e9a5?style=for-the-badge">
-  <img src="https://img.shields.io/badge/-Sempre%20Aprendendo%20Algo%20Novo-ffc107?style=for-the-badge">
+
+<img width="104" height="104" src="https://img.shields.io/badge/ME-0a0e1c?style=for-the-badge" alt="avatar" />
+
+# Matheus Estevão
+<sub>&lt; tenho 21 anos /&gt;</sub>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/ANALISTA%20DE%20DADOS-0a0e1c?style=for-the-badge&labelColor=0a0e1c&color=4fd7ff" />
+<img src="https://img.shields.io/badge/APAIXONADO%20POR%20TECNOLOGIA-0a0e1c?style=for-the-badge&labelColor=0a0e1c&color=b26bff" />
+<img src="https://img.shields.io/badge/SEMPRE%20APRENDENDO%20ALGO%20NOVO-0a0e1c?style=for-the-badge&labelColor=0a0e1c&color=ffd27a" />
+
 </div>
 
----
+<br>
 
-## 👨‍💻 Sobre mim
+### `01 // SOBRE MIM`
 
-🎓 Estudante de Engenharia de Software na FIAP; <br>
-🚀 Explorando o mundo da tecnologia com foco em análise de dados; <br>
-🎮 Apaixonado por games, música e projetos criativos que juntam design + código; <br>
-📈 Acredito em evolução constante: cada linha de código é um passo à frente! <br>
+> Estudante de Engenharia de Software na FIAP;
+> Explorando o mundo da tecnologia com foco em análise de dados;
+> Apaixonado por games, música e projetos criativos que juntam design + código;
+> Acredito em evolução constante: cada linha de código é um passo à frente!
 
----
+<br>
 
-## 🛠️ Habilidades & Tecnologias
+### `02 // HABILIDADES & TECNOLOGIAS`
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48" style="border-radius: 20%;" title="JavaScript" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" style="border-radius: 20%; background-color: white; padding: 4px;" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48" height="48" style="border-radius: 20%; background-color: white; padding: 4px;" title="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48" height="48" style="border-radius: 20%; background-color: white; padding: 4px;" title="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="48" height="48" style="border-radius: 20%; background-color: white; padding: 4px;" title="MySQL / SQL" />
-</p>
+<img src="https://img.shields.io/badge/JavaScript-0a0e1c?style=for-the-badge&color=ffe37a" />
+<img src="https://img.shields.io/badge/Python-0a0e1c?style=for-the-badge&color=4fd7ff" />
+<img src="https://img.shields.io/badge/HTML5-0a0e1c?style=for-the-badge&color=ff9d7a" />
+<img src="https://img.shields.io/badge/CSS3-0a0e1c?style=for-the-badge&color=8fb4ff" />
+<img src="https://img.shields.io/badge/SQL-0a0e1c?style=for-the-badge&color=b26bff" />
 
-<h3>Ferramentas e Plataformas</h3>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" height="48" style="border-radius: 20%; background-color: white; padding: 4px;" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="48" height="48" style="border-radius: 20%; background-color: white; padding: 4px;" title="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="48" height="48" style="border-radius: 20%; background-color: white; padding: 4px;" title="Figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48" height="48" style="border-radius: 20%; background-color: white; padding: 4px;" title="VS Code" />
-  <img src="https://i.im.ge/QM4z7Jz/microsoft-power-bi-j2ar1geax9jerhy4ixyb9p.webp" width="48" height="48" style="border-radius: 20%; background-color: white; padding: 4px;" title="Power BI" />
-</p>
+<br><br>
 
-<h3>Estudos em Andamento</h3>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="48" height="48" style="border-radius: 20%; background-color: white; padding: 4px;" title="Angular" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="48" height="48" style="border-radius: 20%;" title="TypeScript" />
-</p>
+### `03 // FERRAMENTAS & PLATAFORMAS`
 
-<p><b>Conceitos & Práticas:</b> Metodologias Ágeis (Scrum) e Estruturas de Dados & Algoritmos.</p>
+<img src="https://img.shields.io/badge/Power%20BI-0a0e1c?style=for-the-badge&color=ffb26b" />
+<img src="https://img.shields.io/badge/Docker-0a0e1c?style=for-the-badge&color=7ec8ff" />
+<img src="https://img.shields.io/badge/Figma-0a0e1c?style=for-the-badge&color=ff8fd6" />
+<img src="https://img.shields.io/badge/VS%20Code-0a0e1c?style=for-the-badge&color=7ea3ff" />
+<img src="https://img.shields.io/badge/Excel-0a0e1c?style=for-the-badge&color=4fd7ff" />
 
----
+<sub>* conjunto sugerido para o perfil — troque se algum não bater</sub>
 
-## 🧠 Certificações
+<br><br>
 
-- [✔️ Lógica de Programação - Alura](#)
-- [✔️ Praticando SQL - Alura](#)
+### `04 // ESTUDOS EM ANDAMENTO`
 
----
+<img src="https://img.shields.io/badge/Angular-0a0e1c?style=for-the-badge&color=b26bff" />
+<img src="https://img.shields.io/badge/TypeScript-0a0e1c?style=for-the-badge&color=8fb4ff" />
 
-## 📫 Contato & Redes
+**Conceitos & Práticas:** Metodologias Ágeis (Scrum) e Estruturas de Dados & Algoritmos.
 
-<p align="left">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/pedro-dos-santos37" target="_blank" style="text-decoration: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="48" height="48" style="border-radius: 20%; background-color: white; padding: 6px; margin-right: 6px; vertical-align: middle;" title="LinkedIn" /></a><!--
---><!-- E-mail -->
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ppedropds@gmail.com" style="text-decoration: none;"><img src="https://www.svgrepo.com/show/353812/google-gmail.svg" height="48" style="vertical-align: middle;" title="E-mail" /></a>
-</p>
+<br>
 
----
+### `05 // CERTIFICAÇÕES`
 
-## 🌟 Curiosidades
+- ✅ Lógica de Programação — **Alura**
+- ✅ Praticando SQL — **Alura**
 
-- 🪖 Ex-soldado do exército;
-- ✈️ Sonho em trabalhar com tech no exterior algum dia.
+<br>
 
+### `06 // CONTATO & REDES`
 
+<a href="#"><img src="https://img.shields.io/badge/-LinkedIn-4fd7ff?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/-Gmail-ff6e6e?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br>
+
+### `07 // CURIOSIDADES`
+
+> Ex-soldado do exército;
+> Sonho em trabalhar com tech no exterior algum dia.
+
+<br>
+
+<div align="center"><sub><i>// end of transmission //</i></sub></div>
