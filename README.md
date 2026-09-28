@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="104" height="104" src="https://img.shields.io/badge/ME-0a0e1c?style=for-the-badge" alt="avatar" />
+<img width="104" height="104" src="https://img.shields.io/badge/PS-0a0e1c?style=for-the-badge" alt="avatar" />
 
-# Matheus Estevão
+# Pedro Santos
 <sub>&lt; tenho 21 anos /&gt;</sub>
 
 <br><br>
