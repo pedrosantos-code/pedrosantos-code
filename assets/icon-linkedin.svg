@@ -5,7 +5,7 @@
 <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
 </filter>
 </defs>
-<rect x="2" y="2" width="42" height="42" rx="10" ry="10" fill="#0a1522" stroke="#4fd7ff" stroke-width="1.2" opacity="0.9"/>
+<rect x="2" y="2" width="42" height="42" rx="10" ry="10" fill="none" stroke="#4fd7ff" stroke-width="1.2" opacity="0.9"/>
 <rect x="2" y="2" width="42" height="42" rx="10" ry="10" fill="none" stroke="#4fd7ff" stroke-width="0.9" filter="url(#glow)" opacity="0.85"/>
 <text x="23.0" y="30.0" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-weight="700" font-size="16" fill="#8fe9ff">in</text>
 </svg>
