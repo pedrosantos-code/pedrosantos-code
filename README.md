@@ -6,10 +6,19 @@
 <sub>&lt; tenho 21 anos /&gt;</sub>
 
 <br><br>
+<div align="center">
 
-<img src="https://img.shields.io/badge/ANALISTA%20DE%20DADOS-0a0e1c?style=for-the-badge&labelColor=0a0e1c&color=4fd7ff" />
-<img src="https://img.shields.io/badge/APAIXONADO%20POR%20TECNOLOGIA-0a0e1c?style=for-the-badge&labelColor=0a0e1c&color=b26bff" />
-<img src="https://img.shields.io/badge/SEMPRE%20APRENDENDO%20ALGO%20NOVO-0a0e1c?style=for-the-badge&labelColor=0a0e1c&color=ffd27a" />
+<img src="./assets/badge-tenho21anos.svg" alt="tenho 21 anos" />
+
+<br><br>
+
+<img src="./assets/badge-analista-de-dados.svg" alt="analista de dados" />
+&nbsp;
+<img src="./assets/badge-apaixonado-tecnologia.svg" alt="apaixonado por tecnologia" />
+&nbsp;
+<img src="./assets/badge-sempre-aprendendo.svg" alt="sempre aprendendo algo novo" />
+
+</div>
 
 </div>
 
