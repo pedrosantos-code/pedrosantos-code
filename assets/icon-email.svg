@@ -1,15 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="740" height="64" viewBox="0 0 740 64">
+<svg xmlns="http://www.w3.org/2000/svg" width="46" height="46" viewBox="0 0 46 46">
 <defs>
 <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
 <feGaussianBlur stdDeviation="2.4" result="b"/>
 <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
 </filter>
 </defs>
-<rect x="0" y="0" width="740" height="64" fill="#0a0e1a"/>
-<path d="M0,63 L725,63 Q739,63 739,49 L739,0" fill="none" stroke="#2f6478" stroke-width="1.2"/>
-<g transform="translate(6,9)">
-<rect x="0" y="0" width="42" height="42" rx="10" ry="10" fill="#1a0e0e" stroke="#ff6e6e" stroke-width="1.2" opacity="0.9"/>
-<rect x="0" y="0" width="42" height="42" rx="10" ry="10" fill="none" stroke="#ff6e6e" stroke-width="0.9" filter="url(#glow)" opacity="0.85"/>
-<path d="M8 14 L21.0 23.0 L34 14 M8 14 v20 h26 v-20 Z" fill="none" stroke="#ff9d9d" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
-</g>
+<rect x="2" y="2" width="42" height="42" rx="10" ry="10" fill="#1a0e0e" stroke="#ff6e6e" stroke-width="1.2" opacity="0.9"/>
+<rect x="2" y="2" width="42" height="42" rx="10" ry="10" fill="none" stroke="#ff6e6e" stroke-width="0.9" filter="url(#glow)" opacity="0.85"/>
+<path d="M10 16 L23.0 25.0 L36 16 M10 16 v20 h26 v-20 Z" fill="none" stroke="#ff9d9d" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
 </svg>
