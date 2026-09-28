@@ -12,6 +12,6 @@
 
 <img src="./assets/eyebrow-contato.svg" width="100%" alt="Contato e redes" />
 
-<a href="https://www.linkedin.com/in/pedro-dos-santos37" target="_blank"><img src="./assets/icon-linkedin.svg" alt="LinkedIn" /></a> <a href="mailto:ppedropds@gmail.com"><img src="./assets/icon-email.svg" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/pedro-dos-santos37" target="_blank"><img src="./assets/badge-linkedin.svg" alt="LinkedIn" /></a> <a href="mailto:ppedropds@gmail.com"><img src="./assets/badge-email.svg" alt="Email" /></a>
 
 <img src="./assets/readme-bottom.svg" width="100%" alt="Curiosidades" />
